@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **mohitul838@gmail.com**
+- 📫 How to reach me **mohitul449@gmail.com**
 
 - 📄 Know about my experiences [https://mohit-portfolio-ghost-rio.vercel.app/](https://mohit-portfolio-ghost-rio.vercel.app/)
 
