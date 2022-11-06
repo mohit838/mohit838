@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit838" alt="mohit838" /></a> </p>
 
-- 🔭 I’m currently working on [ECommerce MERN](https://github.com/mohit838/gRio-MERN)
+- 🔭 I’m currently working on [FurNish-Shop-FullStack](https://github.com/mohit838/FurNish-Shop-FullStack)
 
 - 🌱 I’m currently learning **Redux, Node, Express**
 
