@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mohitul Islam</h1>
-<h3 align="center">A passionate Frontend Focus MERN Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Enginner from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit838&label=Profile%20views&color=0e75b6&style=flat" alt="mohit838" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit838" alt="mohit838" /></a> </p>
 
-- 🔭 I’m currently working on [AllMart-Shop-FullStack](https://github.com/mohit838/AllMart-Shop-FullStack)
+- 🔭 I’m currently working on [Protfolio Site](https://mohitul-islam.com/)
 
 - 🌱 I’m currently learning **Redux, Node, Express**
 
-- 👨‍💻 All of my projects are available at [https://mohit-portfolio-ghost-rio.vercel.app/](https://mohit-portfolio-ghost-rio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohitul-islam.com/](https://mohitul-islam.com/)
 
-- 📝 I regularly write articles on [https://mohit-portfolio-ghost-rio.vercel.app/](https://mohit-portfolio-ghost-rio.vercel.app/)
+- 📝 I regularly write articles on [https://mohitul-islam.com/](https://mohitul-islam.com/)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **mohitul449@gmail.com**
+- 📫 How to reach me **<mohitul449@gmail.com>**
 
-- 📄 Know about my experiences [https://mohit-portfolio-ghost-rio.vercel.app/](https://mohit-portfolio-ghost-rio.vercel.app/)
+- 📄 Know about my experiences [https://mohitul-islam.com/](https://mohitul-islam.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
