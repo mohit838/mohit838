@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit838" alt="mohit838" /></a> </p>
 
-- 🔭 I’m currently working on [Protfolio Site](https://mohitul-islam.com/)
+- 🔭 I’m currently working on [H2H-Real-Time-Chat-App]([https://mohitul-islam.com/](https://github.com/mohit838/H2H-Real-Time-Chat-App))
 
-- 🌱 I’m currently learning **Redux, Node, Express**
+- 🌱 I’m currently learning **Redux, Node, Express, Next Js, Typescript, Zustand**
 
-- 👨‍💻 All of my projects are available at [https://mohitul-islam.com/](https://mohitul-islam.com/)
-
-- 📝 I regularly write articles on [https://mohitul-islam.com/](https://mohitul-islam.com/)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Next Js, Typescript**
 
 - 📫 How to reach me **<mohitul449@gmail.com>**
 
