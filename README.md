@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, Next Js, Typescript**
 
-- 📫 How to reach me **<mohitul449@gmail.com>**
+- 📫 How to reach me **<dev.mohitul@gmail.com>**
 
 - 📄 Know about my experiences [https://mohitul-islam.com/](https://mohitul-islam.com/)
 
